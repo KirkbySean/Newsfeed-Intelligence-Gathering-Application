@@ -256,7 +256,6 @@ Newsfeed-Intelligence-Gathering-Application/
 ├── config.py               # Application configuration
 ├── requirements.txt        # Python dependencies
 │
-├── tools/                  # Supporting utilities
 ├── reports/                # Generated reports/sample reports
 └── README.md
 ```
