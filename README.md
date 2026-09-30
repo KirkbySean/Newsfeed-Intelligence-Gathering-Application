@@ -94,7 +94,7 @@ Generated reports contain:
 * Uncertainties
 * Source article references
 
-Reports are stored in the SQLite database and exported as human-readable text files in the `reports/` directory.
+Reports are stored in the SQLite database and exported as human-readable text files in the `reports/` directory. There is a sample report in this folder as an example of what a report may look like.
 
 ## Pipeline Orchestration
 
@@ -257,7 +257,7 @@ Newsfeed-Intelligence-Gathering-Application/
 ├── requirements.txt        # Python dependencies
 │
 ├── tools/                  # Supporting utilities
-├── reports/                # Generated/sample reports
+├── reports/                # Generated reports/sample reports
 └── README.md
 ```
 
